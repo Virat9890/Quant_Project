@@ -1,0 +1,10 @@
+Total Trades: 62
+Outlier Trades (>3 std dev): 1 (1.61%)
+
+Average Outlier PnL: 963.55
+Average Normal PnL: -17.83
+
+Regime Distribution of Outliers:
+regime
+-1    100.0
+Name: proportion, dtype: float64
